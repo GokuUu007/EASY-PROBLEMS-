@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Function to find equilibrium point in the array.
+
 int equilibriumPoint(int a[], int n)
 {
     int sum = 0;
