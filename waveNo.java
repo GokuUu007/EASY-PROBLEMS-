@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+// to convert an array in a wave pattern. 
+// sample input  : 1 2 3 4 5 
+// sample output : 2 1 4 3 5
+
 class geeksforGeeks {
     public static void convertToWave(int n, int[] a) {
         int i = 0;
